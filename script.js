@@ -90,7 +90,6 @@ function drawPaddle() {
 function drawScore() {
   ctx.font = '20px Arial';
   ctx.fillText(`Score: ${score} `, canvas.width - 100, 30);
-
 }
 
 // Draw bricks on canvas
