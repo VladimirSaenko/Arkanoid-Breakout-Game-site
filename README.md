@@ -1,8 +1,8 @@
 # Arkanoid-Breakout-Game-site
 
-### Brick breaker
+## Brick breaker
 
-### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-32/Arkanoid-Breakout-Game-site/index.html
+### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-28/Arkanoid-Breakout-Game-site/index.html
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/oNEzLeJ
 
